@@ -44,6 +44,8 @@
 *.VC.db
 *.VC.opendb
 
+*.uproject
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
